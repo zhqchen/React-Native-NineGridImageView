@@ -27,7 +27,7 @@ var NineGridImageView = React.createClass({
 
     propTypes: {
         picSpacing: React.PropTypes.number, //图片相互之间的间距
-        pictures: React.PropTypes.array, //
+        pictures: React.PropTypes.array, //图片路径数组
         showAreaWidth: React.PropTypes.number, //展示区域的宽度, 默认为屏幕宽度
     },
 
