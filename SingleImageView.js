@@ -13,7 +13,7 @@ var {
 
 var picMarginMap = new Map();//对于不同的图片总数,储存响应的需要设置rightMargin的图片索引,(key-value)-->(图片总数, 需要设置rightMargin的图片索引数组)
 
-var SingleImageView2 = React.createClass({
+var SingleImageView = React.createClass({
 
     //在组件还没加载之前初始化, 不然会存在第一次渲染不正确的问题
     componentWillMount : function () {
@@ -66,4 +66,4 @@ var SingleImageView2 = React.createClass({
 
 });
 
-module.exports = SingleImageView2;
+module.exports = SingleImageView;

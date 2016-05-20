@@ -1,5 +1,5 @@
 # React-Native-NineGridImageView
-A component of nine grid view to show pictures like GridView on Android. It can 
+A component of nine grid view to show pictures like GridView on Android.
 
  ![image](https://github.com/zhqchen/React-Native-NineGridImageView/raw/master/screenshot/result.png)
 
